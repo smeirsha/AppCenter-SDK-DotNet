@@ -46,7 +46,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>None</string>
 			<key>CFBundleURLName</key>
-			<string>com.microsoft.appcenter.xamarin.forms.demo</string>
+			<string>com.microsoft.CleanReactNative-df</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>appcenter-fbeda55d-f13c-49cf-9e5b-a604366676c1</string>
